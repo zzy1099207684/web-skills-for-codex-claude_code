@@ -1,3 +1,6 @@
+
+# web-skills-for-codex-claude_code
+
 [English Version](./README.md)
 
 ![skills](https://img.shields.io/badge/skills-2-blue)
@@ -5,8 +8,6 @@
 ![oh-my-codex](https://img.shields.io/badge/oh--my--codex-compatible-111827)
 ![playwright-cli](https://img.shields.io/badge/browser_validation-playwright--cli-2ea44f)
 ![license](https://img.shields.io/badge/license-MIT-yellow)
-
-# codex-web-skills
 
 技能说明：
 
