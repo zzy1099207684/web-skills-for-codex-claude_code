@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Ralplan"
+  short_description: "Web planning with browser test specs"
+  default_prompt: "Use $web-ralplan to produce a web implementation plan and test spec with explicit browser validation."

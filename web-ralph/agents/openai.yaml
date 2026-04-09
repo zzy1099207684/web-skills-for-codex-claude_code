@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Ralph"
+  short_description: "Ralph loop with required browser proof"
+  default_prompt: "Use $web-ralph to finish this web task with repo checks and browser verification until the flow passes."
